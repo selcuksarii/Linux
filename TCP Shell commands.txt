@@ -1,4 +1,7 @@
 
+// TCP Communication
+// Seems like Only one client is possible
+
 // netcat -l(listen) -p(port) 3600 -s(server address) hosts the TCP server
 netcat -l -p 3600 -s 10.42.0.1
 
